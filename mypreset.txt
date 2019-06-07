@@ -42,3 +42,4 @@ HideTaskbarSearch
 HideTaskView         
 ShowSmallTaskbarIcons
 ShowTaskView
+EnableScriptHost
