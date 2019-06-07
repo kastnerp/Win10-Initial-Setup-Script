@@ -1,0 +1,44 @@
+### Require administrator privileges ###
+RequireAdmin
+
+### Privacy Tweaks ###
+
+### Privacy Tweaks ###
+DisableTelemetry                # EnableTelemetry
+DisableWiFiSense                # EnableWiFiSense
+# DisableSmartScreen            # EnableSmartScreen
+DisableWebSearch                # EnableWebSearch
+DisableAppSuggestions           # EnableAppSuggestions
+DisableActivityHistory          # EnableActivityHistory
+DisableBackgroundApps           # EnableBackgroundApps
+# DisableSensors                # EnableSensors
+EnableLocation					#DisableLocation                 # EnableLocation
+DisableMapUpdates               # EnableMapUpdates
+DisableFeedback                 # EnableFeedback
+DisableTailoredExperiences      # EnableTailoredExperiences
+DisableAdvertisingID            # EnableAdvertisingID
+DisableWebLangList              # EnableWebLangList
+DisableCortana                  # EnableCortana
+# DisableBiometrics             # EnableBiometrics
+# DisableCamera                 # EnableCamera
+DisableErrorReporting           # EnableErrorReporting
+# SetP2PUpdateLocal             # SetP2PUpdateInternet          # SetP2PUpdateDisable
+DisableDiagTrack                # EnableDiagTrack
+DisableWAPPush                  # EnableWAPPush
+# EnableClearRecentFiles        # DisableClearRecentFiles
+# DisableRecentFiles            # EnableRecentFiles
+
+
+HideTrayIcons
+EnableLockScreenBlur
+SetVisualFXAppearance
+ShowQuickAccess
+ShowNetworkOnLockScreen
+ShowShutdownOnLockScreen
+EnableLockScreenBlur
+ShowTaskManagerDetails    
+ShowFileOperationsDetails 
+HideTaskbarSearch    
+HideTaskView         
+ShowSmallTaskbarIcons
+ShowTaskView
